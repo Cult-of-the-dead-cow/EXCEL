@@ -1,0 +1,21 @@
+
+functions in excel
+ 1: sum(c2:e3)
+2 : sum with two rows : =sum(c2:e3,c4:e4)
+3: sum at different cells : =sum(c2,e3,e4)
+4: if else :=IF(C2>50,"A+",IF(C2<50,"B"))
+5:=sumif
+6:=COUNTA
+7:count empty cells =COUNTBLANK
+8:upper to lower a string :=lower(B2)
+9:lower to upper : =upper(B2)
+10:concating a string : =concatenate(b2,b3)
+
+new - old =consume units 
+condition for 1-100 = 1.00
+101-300=2.00=vloopup()
+=hlookup()
+=text()
+=proper()
+=left()
+=right()
